@@ -8,4 +8,4 @@ radio.onReceivedString(function (receivedString) {
     music.playTone(392, music.beat(BeatFraction.Half))
 })
 let signal = 0
-radio.setGroup(1)
+radio.setGroup(2)
